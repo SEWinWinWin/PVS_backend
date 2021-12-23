@@ -20,7 +20,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 import org.springframework.util.DigestUtils;
 import org.springframework.web.cors.CorsConfiguration;
 import pvs.app.filter.JwtTokenFilter;
-
+//安安
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
